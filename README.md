@@ -126,5 +126,12 @@ pnpm dev
 
 - **Add a status column**: Implement a UI that allows users to add new columns (e.g., "To Do", "In Progress", "Completed") for task organization.
 
+  # Video demo
+
+https://github.com/user-attachments/assets/1eb271a4-a022-4837-8500-c41f1595d8d5
+
+
+
+
 
 
