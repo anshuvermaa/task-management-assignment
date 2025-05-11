@@ -1,0 +1,57 @@
+# Node modules (all levels)
+**/node_modules/
+
+# Build output
+/dist/
+/build/
+
+# Log files
+*.log
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IDE or editor folders
+/.idea/
+/.vscode/
+
+# React Native
+# /android/
+/ios/
+
+# Miscellaneous
+*.tgz
+*.swp
+*.swo
+
+# Yarn
+.yarn-integrity
+
+# npm package lock
+/package-lock.json
+/yarn.lock
+
+# Debugger configurations
+/.vscode/*
+
+# JetBrains IDEs
+.idea/
+
+# Next.js build output
+.next/
+
+# Next.js cache
+.cache/
+
+# Webpack
+/.webpack/
